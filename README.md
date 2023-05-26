@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neha Dubey</h1>
-<h3 align="center">A passionate Data engineer from India</h3>
+<h3 align="center">A passionate Software engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
@@ -13,7 +13,7 @@
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/snowflake-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/spark-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Spark](https://img.shields.io/badge/Hive-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Java](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/snowflake-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/spark-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Spark](https://img.shields.io/badge/Hive-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nehadubey28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
