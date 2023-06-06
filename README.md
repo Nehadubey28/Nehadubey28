@@ -13,7 +13,8 @@
 
 
 # 💻 Tech Stack:
- ![Java](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/snowflake-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/spark-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Spark](https://img.shields.io/badge/Hive-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+ ![Java](https://img.shields.io/badge/Java-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/Mysql-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/snowflake-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/jira-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/spark-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Spark](https://img.shields.io/badge/Springboot-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nehadubey28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
